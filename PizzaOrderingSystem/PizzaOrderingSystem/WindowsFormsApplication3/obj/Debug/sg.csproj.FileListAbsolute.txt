@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\sg.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\sg.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Documents\ITSOURCECODE\System\pizzaorderingsystemc\PizzaOrderingSystemC#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.AssemblyReference.cache
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.SuggestedBindingRedirects.cache
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.GenerateResource.cache
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.CoreCompileInputs.cache
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\amitr\OneDrive\Desktop\new pr\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.AssemblyReference.cache
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.GenerateResource.cache
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\sg.csproj.CoreCompileInputs.cache
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\modih\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
